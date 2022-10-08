@@ -1,0 +1,15 @@
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.csproj.AssemblyReference.cache
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.AssemblyInfoInputs.cache
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.AssemblyInfo.cs
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.csproj.CoreCompileInputs.cache
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\bin\Debug\net6.0\ProgramaGrupal.exe
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\bin\Debug\net6.0\ProgramaGrupal.deps.json
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\bin\Debug\net6.0\ProgramaGrupal.runtimeconfig.json
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\bin\Debug\net6.0\ProgramaGrupal.dll
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\bin\Debug\net6.0\ProgramaGrupal.pdb
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.dll
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\refint\ProgramaGrupal.dll
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.pdb
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ProgramaGrupal.genruntimeconfig.cache
+C:\Users\darli\source\repos\ProgramaGrupal\ProgramaGrupal\obj\Debug\net6.0\ref\ProgramaGrupal.dll
